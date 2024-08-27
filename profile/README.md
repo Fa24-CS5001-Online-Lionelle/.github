@@ -1,4 +1,4 @@
-# CS 5001/5003 - Intensive Foundations of Computer Science. Online (4 Hours)
+# FALL 2024 - CS 5001/5003 - Intensive Foundations of Computer Science. Online (4 Hours)
 
 Introduces systematic problem solving through programming. Offers students an opportunity to learn how to analyze a problem, how to divide and organize the problem into appropriate components, how to describe the problem in a computer language, how to analyze and understand the behavior of their programs, and how to test that their programs are working correctly. Additionally, introduces a method of program design called object-oriented programming and various ways to organize data, including a discussion of their advantages and disadvantages. To practice the course concepts, students undertake assignments ranging from small, highly specified programming tasks to larger open-ended problems where students design and code their own solutions.
 
